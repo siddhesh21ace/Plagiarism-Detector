@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" automaticImage="PNG" always-add-relationships="true" generalizations="true" 
+  realizations="true" associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="com.plagiarismdetector.user.User" project="UML" 
+    file="/UML/src/com/plagiarismdetector/user/User.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="43" y="90"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.plagiarismdetector.user.Admin" project="UML" 
+    file="/UML/src/com/plagiarismdetector/user/Admin.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-92" y="251"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.plagiarismdetector.user.CommitteMember" project="UML" 
+    file="/UML/src/com/plagiarismdetector/user/CommitteMember.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="177" y="254"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.plagiarismdetector.user.Faculty" project="UML" 
+    file="/UML/src/com/plagiarismdetector/user/Faculty.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="368" y="253"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.plagiarismdetector.user.Professor" project="UML" 
+    file="/UML/src/com/plagiarismdetector/user/Professor.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="239" y="445"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="com.plagiarismdetector.user.TeachingAssistant" project="UML" 
+    file="/UML/src/com/plagiarismdetector/user/TeachingAssistant.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="501" y="446"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="com.plagiarismdetector.report.DiffStatistics" project="UML" 
+    file="/UML/src/com/plagiarismdetector/report/DiffStatistics.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="862" y="684"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="com.plagiarismdetector.miscellaneous.ComparisonBundle" project="UML" 
+    file="/UML/src/com/plagiarismdetector/miscellaneous/ComparisonBundle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="797" y="199"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="com.plagiarismdetector.operation.CompareOperation" project="UML" 
+    file="/UML/src/com/plagiarismdetector/operation/CompareOperation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="569" y="599"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="com.plagiarismdetector.operation.CumulativeReportOperation" project="UML" 
+    file="/UML/src/com/plagiarismdetector/operation/CumulativeReportOperation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="-64" y="665"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="11" language="java" name="com.plagiarismdetector.operation.IOperation" project="UML" 
+    file="/UML/src/com/plagiarismdetector/operation/IOperation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="43" y="478"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="12" language="java" name="com.plagiarismdetector.operation.PDFRepresentOperation" project="UML" 
+    file="/UML/src/com/plagiarismdetector/operation/PDFRepresentOperation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="308" y="860"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="com.plagiarismdetector.operation.TextRepresentOperation" project="UML" 
+    file="/UML/src/com/plagiarismdetector/operation/TextRepresentOperation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="676" y="859"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="com.plagiarismdetector.operation.XLSRepresentOperation" project="UML" 
+    file="/UML/src/com/plagiarismdetector/operation/XLSRepresentOperation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="500" y="860"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="com.plagiarismdetector.ast.expression.Expression" project="UML" 
+    file="/UML/src/com/plagiarismdetector/ast/expression/Expression.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1775" y="221"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="com.plagiarismdetector.ast.expression.NumberExpression" project="UML" 
+    file="/UML/src/com/plagiarismdetector/ast/expression/NumberExpression.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1899" y="445"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="com.plagiarismdetector.ast.expression.StringExpression" project="UML" 
+    file="/UML/src/com/plagiarismdetector/ast/expression/StringExpression.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1736" y="355"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="com.plagiarismdetector.ast.expression.VariableExpression" project="UML" 
+    file="/UML/src/com/plagiarismdetector/ast/expression/VariableExpression.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1961" y="347"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="com.plagiarismdetector.ast.statement.Statement" project="UML" 
+    file="/UML/src/com/plagiarismdetector/ast/statement/Statement.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1576" y="222"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="com.plagiarismdetector.ast.statement.Variable" project="UML" 
+    file="/UML/src/com/plagiarismdetector/ast/statement/Variable.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1438" y="429"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="com.plagiarismdetector.ast.statement.Assignment" project="UML" 
+    file="/UML/src/com/plagiarismdetector/ast/statement/Assignment.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1611" y="482"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="com.plagiarismdetector.ast.ASTParser" project="UML" 
+    file="/UML/src/com/plagiarismdetector/ast/ASTParser.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1069" y="6"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="com.plagiarismdetector.ast.ASTTree" project="UML" 
+    file="/UML/src/com/plagiarismdetector/ast/ASTTree.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1668" y="8"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="com.plagiarismdetector.ast.Declaration" project="UML" 
+    file="/UML/src/com/plagiarismdetector/ast/Declaration.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1388" y="337"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="com.plagiarismdetector.ast.DiffChecker" project="UML" 
+    file="/UML/src/com/plagiarismdetector/ast/DiffChecker.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1068" y="200"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="26" language="java" name="com.plagiarismdetector.ast.Node" project="UML" 
+    file="/UML/src/com/plagiarismdetector/ast/Node.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1668" y="118"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="27" language="java" name="com.plagiarismdetector.operation.FormatOutputOperation" project="UML" 
+    file="/UML/src/com/plagiarismdetector/operation/FormatOutputOperation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="201" y="685"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="com.plagiarismdetector.operation.LoginOperation" project="UML" 
+    file="/UML/src/com/plagiarismdetector/operation/LoginOperation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="49" y="828"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="com.plagiarismdetector.report.Chunk" project="UML" 
+    file="/UML/src/com/plagiarismdetector/report/Chunk.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1170" y="771"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="com.plagiarismdetector.report.SimilarityMetric" project="UML" 
+    file="/UML/src/com/plagiarismdetector/report/SimilarityMetric.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1168" y="464"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="false" package="true" protected="true" private="true" static="true"/>      
+      <operations public="false" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="31">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="26"/>  
+  </realization>  
+  <generalization id="32">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="27"/>  
+  </generalization>  
+  <generalization id="33">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="27"/>  
+  </generalization>  
+  <dependency id="34">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <generalization id="35">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="27"/>  
+  </generalization>  
+  <generalization id="36">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <dependency id="37">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <association id="38">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="39" name="teachingAssistants">        
+        <position height="0" width="0" x="-62" y="27"/>      
+      </attribute>      
+      <multiplicity id="40" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="-62" y="27"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="41">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <dependency id="42">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="30"/>  
+  </dependency>  
+  <generalization id="43">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <dependency id="44">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="45">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <generalization id="46">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <dependency id="47">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="8"/>  
+  </dependency>  
+  <dependency id="48">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="49">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <association id="50">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="51" name="copiedLines"/>      
+      <multiplicity id="52" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="53">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="54">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <association id="55">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="56" name="diffStatistics">        
+        <position height="0" width="0" x="-105" y="52"/>      
+      </attribute>      
+      <multiplicity id="57" minimum="0" maximum="1">        
+        <position height="0" width="0" x="-105" y="52"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="58">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="59" name="matchedLines2">        
+        <position height="18" width="81" x="1182" y="608"/>      
+      </attribute>      
+      <multiplicity id="60" minimum="0" maximum="2147483647">        
+        <position height="16" width="21" x="1179" y="697"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="61">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="62" name="matchedLines1">        
+        <position height="18" width="81" x="1037" y="607"/>      
+      </attribute>      
+      <multiplicity id="63" minimum="0" maximum="2147483647">        
+        <position height="16" width="21" x="1126" y="697"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="64">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="65" name="initiator">        
+        <position height="0" width="0" x="-36" y="7"/>      
+      </attribute>      
+      <multiplicity id="66" minimum="0" maximum="1">        
+        <position height="0" width="0" x="-36" y="7"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="67">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="68" name="comparisonBundle">        
+        <position height="0" width="0" x="2" y="-9"/>      
+      </attribute>      
+      <multiplicity id="69" minimum="0" maximum="1">        
+        <position height="0" width="0" x="2" y="-9"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="70">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <realization id="71">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <dependency id="72">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="23"/>  
+  </dependency>  
+  <dependency id="73">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="22"/>  
+  </dependency>  
+  <association id="74">    
+    <bendpoint x="370" y="480"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="75" name="professor">        
+        <position height="0" width="0" x="-59" y="23"/>      
+      </attribute>      
+      <multiplicity id="76" minimum="0" maximum="1">        
+        <position height="0" width="0" x="-59" y="23"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="77">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <generalization id="78">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="15"/>  
+  </generalization>  
+  <generalization id="79">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <generalization id="80">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <generalization id="81">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="82">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <realization id="83">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="26"/>  
+  </realization>  
+  <association id="84">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="85" name="nodes">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="86" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="87">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <association id="88">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="89" name="diffChecker">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="90" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="91">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="23"/>  
+  </dependency>  
+  <realization id="92">    
+    <end type="SOURCE" refId="28"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <dependency id="93">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <realization id="94">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="false" package="true" protected="true" private="true" static="true"/>    
+    <operations public="false" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
